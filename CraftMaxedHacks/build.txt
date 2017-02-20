@@ -1,0 +1,9 @@
+author = IZUY303 ,dregera49 ,izuh323
+version = 1.0
+displayName = Ancient Legend of Bossaria
+homepage = https://forums.terraria.org/index.php?threads/work-on-progress-ancient-legend-of-terraria.54609/
+hideCode = true
+hideResources = true
+includeSource = true
+buildIgnore = *.csproj, *.user, obj\*, bin\*, .vs\*
+includePDB = true
